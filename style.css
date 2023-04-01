@@ -1,0 +1,32 @@
+nav a{
+text-decoration: none;
+color: whitesmoke;
+text-align: center;
+padding: 30px;
+float: left;
+}
+nav{background-color: black;overflow: hidden;}
+nav a:hover{color:tomato;}
+
+nav a:visited{color: blue;}
+h1{background-color: blueviolet;padding: 50; text-align: center; text-decoration: none;}
+footer{text-decoration: none;color:whitesmoke;text-align: center;background-color: red;padding: 30px; float: centre; overflow: hidden;}
+h2{text-align: center;
+    padding: 0px;}
+img{text-align: center;
+    padding: 30px;border: 10px; color: black;}
+    h3{text-align: center;
+        padding: 0px;} h4{text-align: center;
+            padding: 30px;
+        }
+
+        .container{
+            
+            margin: 5px;
+padding: 5px;
+        }
+        .box{
+            padding: 5px;
+            margin: 5px;
+        }
+      
